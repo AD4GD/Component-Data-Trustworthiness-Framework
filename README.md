@@ -24,7 +24,7 @@ For each of these dimensions, we offer structured methods for documenting, valid
 The framework utilizes several methodologies for evaluating trustworthiness:
 
 1.	[Ground Truthing](/ground_truthing.md): Comparing datasets to known standards or trusted datasets.
-2.	Data Lineage: Documenting the sources and process steps used to create the dataset.
+2.	[Data Lineage](/lineages.md): Documenting the sources and process steps used to create the dataset.
 3.	External Uncertainty Quantification: Addressing uncertainty from sources like sensor calibration.
 4.	Published Research: Leveraging peer-reviewed studies to validate data or methodologies.
 5.	User Feedback: Collecting insights from data users to continually refine and improve dataset quality.
